@@ -1,3 +1,5 @@
 # BC Studio Website
 
-Static landing website for [bcstudiosoftware.com](https://bcstudiosoftware.com).
+Official landing website for BC Studio church graphics software for OBS Studio and vMix.
+
+Visit [bcstudiosoftware.com](https://bcstudiosoftware.com).
